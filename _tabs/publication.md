@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
-icon: fas fa-pen
+icon: fas fa-paperclip
 order: 3
 ---
 
-1. Comparative numerical analysis of torpedo-shaped and cubic symmetrical autonomous underwater vehicles in the context of Indonesian marine environments.  
-    Authors: Kadek Dwi Wahyuadnyana, Katherin Indriawati, Purwadi Agus Darwito, Ardyas Nur Aufa, Hilton Tnunay
+1. **Comparative numerical analysis of torpedo-shaped and cubic symmetrical autonomous underwater vehicles in the context of Indonesian marine environments.**  
+    Authors: Kadek Dwi Wahyuadnyana (Beehive Drones, ITS), Katherin Indriawati (ITS), Purwadi Agus Darwito (ITS), Ardyas Nur Aufa (Beehive Drones), Hilton Tnunay (KU Leuven, Beehive Drones)
