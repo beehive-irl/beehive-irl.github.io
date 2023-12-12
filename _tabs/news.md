@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 icon: fas fa-newspaper
 order: 1
 ---
