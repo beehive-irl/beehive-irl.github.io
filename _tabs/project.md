@@ -12,3 +12,5 @@ order: 2
 ### Past
 1. Otaklebah: flight management unit (2018)
 2. Visual odometry on quadcopter (2018)
+3. Precision landing of quadcopter (2018)
+4. Navier delivery system (2018)
