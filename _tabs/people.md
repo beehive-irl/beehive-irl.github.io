@@ -8,7 +8,7 @@ toc: true
 
 > ### **Swarm Intelligence Systems (SIS)**
 {: .prompt-tip }
-#### **Hilton Tnunay, S.T., Ph.D.**
+#### **Hilton Tnunay, Ph.D.**
 ![KDW](/assets/img/people/HT.jpg){: width="250" .left}
 <p style="text-align: justify;">
 Hilton Tnunay earned his Bachelor of Engineering degree from Universitas Gadjah Mada in Indonesia. In his undergraduate journey, he joined UAV formation control research, where he designed an innovative formation control algorithm utilising the well-established potential field method. This work not only marked the culmination of his undergraduate studies but also resulted in the publication of his thesis in IEEE and MEV Journal.
