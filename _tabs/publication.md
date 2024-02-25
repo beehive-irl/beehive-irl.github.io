@@ -9,7 +9,7 @@ order: 3
 - Authors: Kadek Dwi Wahyuadnyana (BIRL, ITS), Katherin Indriawati (ITS), Purwadi Agus Darwito (ITS), Ardyas Nur Aufa (BIRL), Hilton Tnunay (BIRL, KU Leuven)  
 - Link: [BIRL-2023-01](https://doi.org/10.18280/mmep.100601)
 
-#### 2. **Experimental Validation: Perception and Localization Systems for Autonomous Vehicles using The Extended Kalman Filter Algorithm (2023)**  
+#### 2. **Experimental Validation: Perception and Localization Systems for Autonomous Vehicles using The Extended Kalman Filter Algorithm (2024)**  
 - Publisher: International Journal on Smart Sensing and Intelligent Systems, Sciendo
 - Authors: Bambang Lelono Widjiantoro (ITS), Katherin Indriawati (ITS), Alexander Buyung (ITS), Kadek Dwi Wahyuadnyana (BIRL, ITS)
 - Link: [BIRL-2024-01](https://doi.org/10.2478/ijssis-2024-0002)
